@@ -1,5 +1,5 @@
 
-# Hello World
+# Hello World ✨
 greeting = {
               name: "Pakbung",
               education: ["English", "Computer Science"],
