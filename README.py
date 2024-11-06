@@ -1,9 +1,9 @@
 
 # Hi there 👋
 greeting = {
-              "name": "Pakbung",
+              "name": ["Pimnara Sujaritchat", "Pakbung"],
               "education": ["English and Linguistics", "Computer Science"],
-              "favorite": [1984, "Evangelion", "Arrival(2016)", "Radiohead"],
-              "interest": ["Computer Linguistics", "Machine Learning"],
+              "favorite": ["Arrival(2016)", "Radiohead"],
+              "interest": ["Data Structure and Algorithms", "Machine Learning"],
             }
 
