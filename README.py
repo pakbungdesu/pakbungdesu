@@ -3,7 +3,7 @@
 greeting = {
               "name": ["Pakbung"],
               "education": ["English and Linguistics", "Computer Science"],
-              "fav_movies": ["Arrival(2016)", "Fight Club (1999)"],
+              "favorite": ["Fight Club (1999)", "Queen(band)"],
               "interest": ["Data Structure and Algorithms", "Machine Learning"],
             }
 
