@@ -5,7 +5,7 @@ A developer and student bridging the gap between **Linguistics** and **Computer 
 
 ## 🛠️ Skills & Tech Stack
 * **Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL (Postgres, MySQL), HTML/CSS
-* **Web & Backend Frameworks:** NestJS, FastAPI, Tailwind CSS, Bootstrap, React
+* **Web & Backend Frameworks:** NestJS, FastAPI, Tailwind CSS, Bootstrap, React, Next.js
 * **AI & Data Science:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, Scikit-learn, OpenCV, Skimage, Pandas, NumPy, Matplotlib, Seaborn
 * **Databases & Data Engineering:** MongoDB, PostgreSQL, MySQL, Apache Airflow
 * **Developer Tools:** Git, Docker, VS Code, MySQL Workbench, IntelliJ, PyCharm
