@@ -15,5 +15,5 @@ A developer and student bridging the gap between **Linguistics** and **Computer 
 ## 📽️ Beyond the Code
 When I'm not debugging or building data pipelines, you'll find me:
 *   Analyzing cult classics like *Fight Club (1999)*.
-*   Listening to my favorite bands like *Radiohead*.
+*   Listening to my favorite band like *Radiohead*.
 *   Writing about film and literature.
