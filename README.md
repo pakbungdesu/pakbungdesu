@@ -1,7 +1,8 @@
 # Hello Worl!🌏✨
+<br>
 
 My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
-
+<br>
 
 ## **Skills & Tech Stack** 💻
 - **Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL, HTML/CSS
@@ -12,3 +13,7 @@ My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
 - **Developer Tools:** Git, Docker, VS Code, MySQL Workbench, IntelliJ, PyCharm
 - **Data Visualization:** Tableau, Looker Studio, Matplotlib, Seaborn
 - **Productivity:** MS Office (Excel, Word, PowerPoint), Google Workspace
+<br>
+
+> 👍 Always learning, optimizing, and building
+<br>
