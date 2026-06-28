@@ -1,4 +1,4 @@
-# Hello Worl!🌏✨
+# Hello World!🌏✨
 <br>
 
 My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
