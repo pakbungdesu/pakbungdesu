@@ -16,7 +16,6 @@ My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
 <br>
 
 ## Deployed Projects 🚀
-
 | Project Name | Description | Concept & Tech Stack | Live Demo |
 | --- | --- | --- | --- |
 | **Equalzi** | Math-inspired dice game. Roll until held dice equal the target sum before time runs out. | React, CSS | [Live Demo](https://equalzi.netlify.app/) |
