@@ -16,6 +16,9 @@ My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
 <br>
 
 ## Deployed Projects 🚀
-- **Equalzi**: Math-inspired React dice game [Live Demo](https://equalzi.netlify.app/)
-- **Assembly Endgame**: Word guessing game built with React [Live Demo](https://project-assembly-endgame.netlify.app/)
-- **Meme Generator**: Powered by a Python AI semantic search pipeline [Live Demo](https://semantic-meme-generator.netlify.app/)
+
+| Project Name | Description | Concept & Tech Stack | Live Demo |
+| --- | --- | --- | --- |
+| **Equalzi** | Math-inspired dice game. Roll until held dice equal the target sum before time runs out. | React, CSS | [Live Demo](https://equalzi.netlify.app/) |
+| **Assembly Endgame** | Interactive word guessing game. | React, CSS | [Live Demo](https://project-assembly-endgame.netlify.app/) |
+| **Meme Generator** | Dynamic meme generator powered by a semantic search pipeline. | Vision-Language Model, Sentence Transformers, Semantic Matching, FastAPI, React | [Live Demo](https://semantic-meme-generator.netlify.app/) |
