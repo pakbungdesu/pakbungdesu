@@ -1,11 +1,11 @@
 # Hello World!🌏✨
 <br>
 
-My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱🌷
+My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱
 <br>
 
 ## Skills & Tech Stack 💻
-- **Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL, HTML/CSS
+- **Languages:** Python, Java, C/C++, C#, TypeScript, JavaScript, SQL, HTML/CSS
 - **Web & Backend:** NestJS, FastAPI, React, Next.js, Tailwind CSS, Bootstrap
 - **AI & Data Science:** PyTorch, TensorFlow, Hugging Face, LLMs, Scikit-learn, Pandas, NumPy
 - **Image Processing:** OpenCV, Torchvision, SciPy (ndimage), Skimage, Pillow
