@@ -1,10 +1,10 @@
-# Hello World!🌏✨
+# Hello World! 🌎🌟
 <br>
 
-My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱
+My name is `Pimnara Sujaritchat`. Or you can call me `Pakbung`
 <br>
 
-## Skills & Tech Stack 💻
+## Skills & Tech Stack 👩🏻‍💻📚
 - **Languages:** Python, Java, C/C++, C#, TypeScript, JavaScript, SQL, HTML/CSS
 - **Web & Backend:** NestJS, FastAPI, React, Next.js, Tailwind CSS, Bootstrap
 - **AI & Data Science:** PyTorch, TensorFlow, Hugging Face, LLMs, Scikit-learn, Pandas, NumPy
@@ -15,7 +15,7 @@ My name is `Pimnara Sujaritchat`. Or you can call me just `Pakbung` 🌱
 - **Productivity:** MS Office (Excel, Word, PowerPoint), Google Workspace
 <br>
 
-## Deployed Projects 🚀
+## Deployed Projects 🚀📮
 | Project Name | Description | Concept & Tech Stack | Live Demo |
 | --- | --- | --- | --- |
 | **Equalzi** | Math-inspired dice game. Roll until held dice equal the target sum before time runs out. | React, CSS | [Live Demo](https://equalzi.netlify.app/) |
