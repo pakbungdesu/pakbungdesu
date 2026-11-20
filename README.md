@@ -1,7 +1,7 @@
 # Hello World! 🌎🌟
 <br>
 
-My name is `Pimnara Sujaritchat`. Or you can call me `Pakbung`
+My name is `Pimnara Sujaritchat`, or you can call me `Pakbung`
 <br>
 
 ## Skills & Tech Stack 👩🏻‍💻📚
